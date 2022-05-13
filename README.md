@@ -1,3 +1,16 @@
+This is simple react app made for learning purpose having 2 pages home page and About page.Routing is done with react router.
+
+Link--> e-bikes-react.netlify.app
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
