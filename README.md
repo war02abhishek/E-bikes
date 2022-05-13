@@ -1,6 +1,6 @@
 This is simple react app made for learning purpose having 2 pages home page and About page.Routing is done with react router.
 
-Link--> e-bikes-react.netlify.app
+Link--> https://e-bikes-react.netlify.app/
 
 
 
